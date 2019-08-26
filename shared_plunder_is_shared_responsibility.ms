@@ -1,0 +1,40 @@
+.TL
+Shared Plunder is Shared Responsibility
+.br
+\fI$Revision: 1.1 $\fP
+.br
+\fIOriginally conceived 2 Nov 2018\fP
+.AU
+John P. Willis
+.LP
+The United States of America, as an independent nation, was built around roughly three organizing principles:
+.IP \[bu] 2
+Economic freedom
+.IP \[bu]
+Private property
+.IP \[bu]
+Personal responsibility
+.LP
+All of these ideas trace themselves back to Enlightenment philosophers such as John Locke. Many of the founding fathers were avid fans of Locke's philosophy, and it permeates the Declaration of Independence, the United States Constitution, Paine's \fICommon Sense\fP, and \fIThe Federalist Papers\fP. Modern-day U.S. libertarians espouse these three principles zealously, and indeed, there is potentially a great deal of both moral and material value to be found in all of them.
+.LP
+But the U.S. incarnation of these principles was built by forcibly denying that the rights implied by these principles extended to North America’s native tribes. Genocide, theft of private property \fIen masse\fP, and forced confinement was the zeitgeist of this nation’s early decades, whilst slavery was allowed--for purposes of political expediency--to run its course, ultimately necessitating the loss of over 600,000 lives to correct it.
+.LP
+Religiosity and the heretical justification of "Manifest Destiny" was spread about in order to allow the founders and their progeny to abrogate their personal responsibility in decimating the native population, and similar ideas around what white supremacist slavers labeled as a holy crusade "civilizing" those who were deemed "savage" in order to expand Christendom to those they regarded as lesser, in order to raise them up.
+.LP
+This was always wrong. It is still always wrong. As an expression of hypocrisy and evil, it is unassailable. Nothing the natives did or could have done in order to defend their property and liberties--no matter how brutal--can legitimately be raised in defense of the European invaders, and no act of kindness by slaver to slave can legitimately be raised in defense of the slaver. By definition, and guided by the principles espoused in the nation's founding documents, depriving another human being of these liberties is evil, and all participants in such acts evil by the same measure, without regard to the manner in which they prosecuted their role as oppressors. The "kind slaver", "brutal native", and "not really native" narratives are, were, and will always be not only specious, but constitute a modern-day continuation of the same oppression for which they were concocted to justify. As long as these fallacies or their progenitors are given any voice in the public discourse, this nation will remain forever an oppressor and aggressor.
+.LP
+Extend this to post-Civil War America, and the robber barons--Vanderbilt, Rockefeller, Morgan, and their ilk--whose corporatist machinations manipulated our markets, exploited our labor, and built this country from a tattered and loose union into a world power, and you now have the basis of the American dream, and the wealth that underlies its potential, for those with the means to grasp for it.
+.LP
+Citizens of this nation inherit the spoils of the past aggression and oppression that built it, collectively, and those who capitalize upon it could not do so without partaking in the system that it built.
+.LP
+Nobody claims that you, personally, killed a native tribesman.
+.LP
+Nobody claims that you, personally, enslaved another human being.
+.LP
+But, if you inherited the spoils and plunders of genocide and slavery, and built your successes upon it, then your participation in this system necessitates--by your own definition of personal responsibility--that you embrace responsibility for not only your personal actions, but also for the past failures of the system that has enabled it. You are effectively a shareholder in a nearly 250-year-old corporation with a 250-year-old ledger of liabilities and debts that must be repaid. That corporation also conveys a wealth of benefits to you, but if you are to enjoy those benefits, you must also confront its legacy.
+.LP
+As long as we, as human beings, collect ourselves into artificial entities that outlive their creators, and convey human rights to those entities, pure individualism is impossible, and we must be willing to pay the price for the entity’s actions, even if those actions preceded us by hundreds of years.
+.LP
+If you want life, liberty, and the pursuit of happiness, you’re honor-bound to extend those same privileges to everyone.
+.LP
+Anything else is just hypocrisy.

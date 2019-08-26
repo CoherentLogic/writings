@@ -1,0 +1,19 @@
+.TL
+The Fulcrum of Truth: Taking Soteriology to the Bank
+.br
+\fI$Revision: 1.1 $\fP
+.br
+\fIOriginally conceived 30 Jun 2013\fP
+.AU
+John P. Willis
+.LP
+There are multiple theories regarding the nature and mechanism of atonement in the Christian religion. The earliest and simplest was the moral transformation theory, which was held as truth by the early church, from the time of Jesus’ earthly ministry until approximately 300 years after his death. This view held that the death of Jesus was a simple martyrdom, and that the mechanism and atoning result was the transformation of human lifestyles to become closer and closer to the teachings of Jesus.
+.LP
+The penal substitution theory of atonement--along with the Protestant reformation--came about during the same era as the rise of highly organized central banks. The Roman Catholic church had strict rules against charging interest at any rate whatsoever, which precluded the establishment of banking systems in areas where the Roman Catholic church held sway. However, these restrictions were relaxed as Protestantism gained power. Given this social and political environment in which the Reformers lived, it makes some sense that the moral transformation theory of atonement would be supplanted by a simple–yet-exclusive debt/repayment equation. The prognosis for your mortal soul went from a gold standard of continuous moral transformation to a fiat currency controlled by a few high-powered religious and theological elites.
+.LP
+It is also interesting to note that the Pauline epistles, the theological bedrock upon which the Reformation was built, were not canonized until ca. 140 A.D. (about 160 years prior to the early decline of the moral transformation theory) and were canonized by Marcion of Sinope, who left out all of the Gospels except his own heavily-edited version of the book of Luke. Marcion believed that the teachings of the New Testament were incompatible with the teachings of the Old Testament, and himself proclaimed a dualist view of God: he believed that God of the OT and God of the NT were separate and distinct; the former being visceral and evil, the latter being spiritual and good. Marcion also rejected all of the apostles who lived in Jesus’ time for being essentially "too Jewish", and held Paul as chief among the apostles and Paul’s teachings as the essence of religious truth. Marcion was, in his own time, widely cast as a heretic.
+.LP
+All of this is essentially a study in how organized religious movements and religious men shadow all of the social, cultural, and political developments with which they are contemporary. In this case, Christianity sold its birthright by aligning itself with the same class of money-changers Jesus had earlier cast out from Herod’s temple. The end result was that early Christianity was ultimately distorted into a view wherein slavery under sin could only be exchanged for slavery under religious leaders, which is ironically referred to as "Christian freedom". It was politically expedient for these men to corrupt the church to their own ends, as a "religion" where following simple teachings of kindness and peace, guided by the spirit within, cannot be easily controlled, as it places the fulcrum of truth within the truth-seeker.
+.LP
+As long as the fulcrum of truth is held to be outside of the truth-seeker, Caiaphas always lives. He simply exists in one of many reincarnated forms. Paul of Tarsus, Marcion of Sinope, John Calvin, Huldrych Zwingli, the Westminster "divines", church elders "fencing the table"... the list goes on. They all require payment--with interest--on a debt only they created, and they place individual freedom on the sidelines. In this way, I suppose Caiaphas has even been reincarnated today: he is a central banker meddling with interest rates.
+

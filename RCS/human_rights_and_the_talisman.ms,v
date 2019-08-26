@@ -1,0 +1,77 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@.\" @;
+
+
+1.1
+date	2019.08.17.22.27.44;	author jpw;	state Exp;
+branches;
+next	;
+
+
+desc
+@Initial commit
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@.TL
+Human Rights and the Talisman
+.br
+\fI$Revision$\fP
+.br
+\fIOriginally conceived 18 Oct 2012\fP
+.AU
+John P. Willis
+.AB
+A \fItalisman\fP, being a tribal symbol, defines the lines by which the social hierarchy
+is drawn. This paper seeks to elucidate the manner in which the United States, by adopting
+talismanic idolatry in the majority of its social and cultural messaging, defeats the goals
+of its own founding documents.
+.AE
+.QP
+We hold these truths to be self-evident, that all men are created equal, that they are endowed
+by their Creator with certain unalienable Rights, that among these are Life, Liberty and
+the pursuit of Happiness.
+
+.LP
+Most of those who were born and educated in the United States will recognize the above paragraph from the U.S. Declaration of Independence, in which Thomas Jefferson so eloquently intones and distills the essence of human rights. It saddens me that the practice of capitalizing nouns for emphasis (e.g. Rights, Life, Liberty, Happiness) has been largely forgotten in this modern era, as it helps to elucidate the author’s intentions, leaving less room for error in interpretation. However, even without the brilliant emphases used here, it is quite clear that Jefferson had a clear understanding of human rights. In this writing, we’ll look through a moral and ethical lens into a few criteria for the traits a valid “human right” should embody, explore some common disparities in the application of rights, and some of the prime reasons these disparities exist.
+
+.LP
+The term “human rights” has been grossly overused by politicians seeking votes to include many ideas that aren’t “rights” at all. For any given thing to be a “human right”, it should conform to a few basic criteria:
+
+.IP \[bu] 2
+Universality: it should transcend barriers of culture
+.IP \[bu]
+Simplicity: it should be universally understood by anyone of basic mental capacity
+.IP \[bu]
+Reciprocity: the right should be something which does not require taking away the same right from someone else
+
+.LP
+Within this criteria, the ideas of a right to “Life, Liberty, and the pursuit of Happiness” fits quite well: the distillation of all cultures point towards a universal concept that most people would rather live than die, except those who are suicidal (noting that most suicidal people have been somehow deprived of Liberty or Happiness). Also, most would prefer liberty to slavery, and happiness to sadness. They are all simple enough to be understood by anyone, and they are all reciprocal: a human doesn’t have to kill another human to have life, doesn’t have to take away others’ liberties to have liberty, and doesn’t have to take away someone else’s happiness in order to pursue happiness.
+
+.LP
+If we agree on Life, Liberty, and the pursuit of Happiness as universally legitimate and unalienable human rights, it becomes clear that the United States does not hold them to be universally applicable. The government of this country, backed by its people, clearly believes that these rights apply only to the select few who are fortunate enough to live within its borders, and who agree with and promote the values espoused by the government of the day. When it comes to war, the concept of “unalienable Rights” is never extended to the “collateral damage” and “civilian casualties” of wartime, that is, the innocent men, women, and children who are killed as part of the war effort. Many government officials will say that this “collateral damage” is a worthwhile sacrifice towards the end goal the war was instigated to promote. Clearly, the end goal of the war is held higher in this case than the founding precepts of the nation waging the war. Factions of the political system also apply these rights unevenly: neoconservatives typically care little for the unalienable right to life of civilian casualties of war, especially if the war is waged to prevent a perceived threat of future aggression from the enemy combatants. However, the same neoconservatives typically promote the right to life of an unborn child with great passion and gusto. The view that this disparity is simple hypocrisy–while effective for the sake of winning an argument–lacks nuance. It cannot even be dismissed as a simple moral or ethical shortcoming. There is a deeper reason, which is embodied in a number of talismans.
+
+.LP
+Now we come to the real core of the issue, and one that speaks to a deeply ingrained flaw in our species’ evolution: the talisman. The talisman comes in many forms, three of which are listed here:
+
+.IP \[bu] 2
+Flags: each of these is a talisman of citizenship; a symbol of allegiance to the interests of the nation the flag represents. Represents the benefits given to or withheld from those who pledge allegiance to it.
+.IP \[bu]
+Religious symbols: each of these is a talisman representing allegiance to a set of precepts held by a particular religion.
+.IP \[bu]
+Money: units of currency are talismans representing the owner’s material interests; essentially, the owner’s capacity to trade labor for physical goods.
+
+.LP
+These and all talismans are used to divide humanity into competing groups. The degree of humanity (and thus the quantity or quality of rights) accorded by one person or group to another person or group depends entirely on the quantity or quality of similar talismans possessed by the other person or group: those who possess the U.S. flag talisman by accepting its government without question are accorded the greatest level of humanity and thus the greatest level of rights; those who don’t follow it at all (i.e. enemy combatants) are accorded the least. It is the same with religious symbols and money: to be accepted by those with many money talismans requires that one also owns many money talismans. In summary, the rich associate mostly with and care mostly about the rich, the poor associate mostly with  and care mostly about the poor, Christians associate mostly with and care mostly about other Christians, Muslims associate mostly with and care mostly about other Muslims, U.S. citizens associate mostly with and care mostly about other U.S. citizens. Therefore, all of these talismans are a dividing and illusory assignment of humanity, and rights are doled out according to talismans held in common.
+
+.LP
+Perhaps the next great shift in human evolution will be the mass realization that these talismans are altogether unnecessary, that humanity is at its best when it realizes that being human is a great enough common factor to provide for the life, liberty, and happiness of all. One can only hope that this will be the case, where our species learns that we should all be teachers and all be students for all our lives, as the only real and non-contrived competition we face is not from each other, but from our surroundings and our environment, which has always and will always challenge our continued survival.
+@
